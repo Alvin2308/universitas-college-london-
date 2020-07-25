@@ -259,7 +259,7 @@ void tanggautama()
     glVertex3f(-85, 20, 10);
     glVertex3f(-85, 11, 10);
     glVertex3f(85, 11, 10);
-    glVertex3f(85, 20, 10);
+    glVertex3f(85, 20, 10);  asd
     //atas
     glColor3ub(200, 200, 200);
     glVertex3f(-85, 11, 10);
